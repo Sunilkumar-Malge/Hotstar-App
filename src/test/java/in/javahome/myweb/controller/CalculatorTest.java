@@ -12,3 +12,7 @@ public class CalculatorTest extends TestCase {
 		Assert.assertEquals(cal.multiply(10, 20), 200);
 	}
 }
+
+
+
+
